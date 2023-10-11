@@ -1,0 +1,16 @@
+---
+name: Ilona Maskova # ваше имя
+job: QA Engineer
+level: junior
+email: ilona@hexlet.io
+description: |
+  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
+
+  Текст может быть написан в несколько абзацев
+skills:
+  - C++
+  - MATLAB
+  - Simulink
+  - B&K PULSE
+  - ZetLAB
+  - Adobe Audition
