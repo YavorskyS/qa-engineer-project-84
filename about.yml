@@ -1,12 +1,10 @@
 ---
-name: Ilona Maskova # ваше имя
+name: Stanislav
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: ***@gmail.com
 description: |
-  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
-
-  Текст может быть написан в несколько абзацев
+  no wealth, no lands, no army, only a name.
 skills:
   - C++
   - MATLAB
